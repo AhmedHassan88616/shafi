@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "428474716953",
+    "firebase_url": "https://shop-app-c7489.firebaseio.com",
+    "project_id": "shop-app-c7489",
+    "storage_bucket": "shop-app-c7489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428474716953:android:929d715ddb562c3e146b88",
+        "android_client_info": {
+          "package_name": "com.ahmedhassan88616.shafi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428474716953-0d6p37unktah4knr7heqieijjgv6a0id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4BpmwpmhModkCu0ycgAtsHgDN5A93ly8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428474716953-0d6p37unktah4knr7heqieijjgv6a0id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

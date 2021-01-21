@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shafi</string>
+
+    <string name="facebook_app_id">455344795875606</string>
+    <string name="fb_login_protocol_scheme">fb455344795875606</string>
+
+</resources>
